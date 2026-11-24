@@ -78,6 +78,7 @@ We'd greatly appreciate if you could:
 | [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) | MDB - Material Design for Bootstrap v5 | MDB AI Bundle $149, 30% off other offers, code **BF2026** | - | ✅ |
+| [ShadcnStore](https://shadcnstore.com/pricing?utm_source=greatfrontend&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, with a Figma kit. One-time payment, lifetime updates. | 40% off every plan and template, no code needed | Ends Dec 1 | ✅ |
 
 ## Developer tools
 
